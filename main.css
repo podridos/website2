@@ -4,3 +4,8 @@ body {
 	text-align: center;
 	width: 100%;
 }
+
+.hero {
+	padding: 250px 0;
+	margin: 30px;background-size: cover;color: #ffffff;
+}
