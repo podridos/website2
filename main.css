@@ -7,7 +7,10 @@ body {
 
 .hero {
 	padding: 250px 0;
-	margin: 30px;background-size: cover;color: #000000;
+	margin: 30px;
+	background-size: cover;
+	color: #000000;
+	background-image: url("download.jpg");
 }
 
 .center {
